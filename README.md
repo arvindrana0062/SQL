@@ -25,8 +25,7 @@ Total records: ~3500 orders
 - Monthly sales trend
 - Profit margin calculation
 
-
-- 📁 **SQL Scripts:** [View queries folder](SQL-Query)
+ 📁 **SQL Scripts:** [View queries folder](SQL-Query)
  
 
 
